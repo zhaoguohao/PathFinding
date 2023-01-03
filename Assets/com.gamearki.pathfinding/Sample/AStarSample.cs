@@ -3,7 +3,7 @@ using UnityEngine;
 using GameArki.PathFinding.AStar;
 using GameArki.PathFinding.Generic;
 
-namespace AStar.Sample
+namespace GameArki.PathFinding.Sample
 {
 
     public class AStarSample : MonoBehaviour
